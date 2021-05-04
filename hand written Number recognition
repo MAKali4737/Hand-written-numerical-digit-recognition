@@ -74,7 +74,6 @@ def larger_model():
 	return model
 
 
-
 # build the model
 model = larger_model()
 
